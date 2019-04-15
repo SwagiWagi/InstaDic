@@ -1,2 +1,3 @@
 # InstaDic
-An Instagram dictionary attack tool using Python
+FOR EDUCATIONAL PURPOSES ONLY
+I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THIS TOOL OR IT'S CODE
