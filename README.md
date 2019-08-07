@@ -6,4 +6,4 @@ Usage:
 1. Install the dependencies: Run "pip install -r requirements.txt" from the CMD/Terminal.
 2. Run Core.py to start the program and follow the on-screen instructions from there.
 
-I coded this program for testing the Instagram dictionary attack defence system, and for testing my https GET/POST requests abilities, It's not much, but it adds to my portfolio.
+I coded this program for testing the Instagram dictionary attack defence system, very simple tool.
